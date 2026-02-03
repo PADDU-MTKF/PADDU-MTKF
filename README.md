@@ -28,7 +28,7 @@ I may not know every concept by heart, but if an idea flashes — I **research, 
 
 ---
 
-## 🧠 How I Build
+## How I Build
 
 * Idea first, documentation later — Learn by **doing**, not just reading
 * Explore new tools & frameworks when needed — Prefer simple, practical solutions over theory-heavy ones
@@ -37,7 +37,7 @@ I may not know every concept by heart, but if an idea flashes — I **research, 
 
 ---
 
-## 🔍 What You’ll Find Here
+## What You’ll Find Here
 
 * Random ideas turned into working code
 * Personal experiments
@@ -49,7 +49,7 @@ I may not know every concept by heart, but if an idea flashes — I **research, 
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 * Better system design through practice
 * IoT integrations
@@ -57,7 +57,7 @@ I may not know every concept by heart, but if an idea flashes — I **research, 
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 If you like building, experimenting, or breaking things to understand them — we’ll get along just fine.
 
