@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I’m Pradyumna 🫡
 
-<!--
-**PADDU-MTKF/PADDU-MTKF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a hands-on developer who likes **building things that work**.
+I may not know every concept by heart, but if an idea flashes — I **research, experiment, and implement it**. Sometimes using tools from *this planet*, sometimes from *another one* 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Work With
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Web Hosting / Nginx" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
+</p>
+
+* **Python** — Scripting, automation, backend logic
+* **Django** — Web apps, APIs, real-world projects
+* **Android Development** — Native apps, UI + logic
+* **Automation** — Reducing manual work, task runners, scripts
+* **IoT Projects** — Hardware + Software experiments (Raspberry Pi, sensors, integrations)
+* **Web Hosting & Deployment** — Server setup, reverse proxy, production deployments
+* **Database setup** — Design and deploy database 
+
+---
+
+## 🧠 How I Build
+
+* Idea first, documentation later
+* Learn by **doing**, not just reading
+* Explore new tools & frameworks when needed
+* Prefer simple, practical solutions over theory-heavy ones
+
+> If I don’t know something, I don’t stop — I **figure it out**.
+
+---
+
+## 🔍 What You’ll Find Here
+
+* End-to-end projects (**idea → build → deploy**)
+* Applications developed and **hosted by me**
+* Personal experiments
+* Automation scripts
+* Web & Android apps
+* Random ideas turned into working code
+
+Some projects are polished, some are raw — all of them are **learning in motion**.
+
+---
+
+## 🌱 Currently Exploring
+
+* Better system design through practice
+* Smarter automation workflows
+* Scalable Django setups
+* IoT integrations
+* AI integrations
+
+---
+
+## 📫 Let’s Connect
+
+If you like building, experimenting, or breaking things to understand them — we’ll get along just fine.
+
+⭐ Feel free to explore, fork, or get inspired.
